@@ -1,0 +1,8 @@
+{
+  "name": "performance_Monitor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Iyadchafroud/performance_Monitor.git",
+  "author": "Iyadchafroud <60520088+Iyadchafroud@users.noreply.github.com>",
+  "license": "MIT"
+}
